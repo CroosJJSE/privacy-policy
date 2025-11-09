@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated: November 8, 2025
 
-This Privacy Policy for We’re SL (“we”, “us”, or “our”) explains how we collect, use, and protect your information when you use our mobile app WeLearn or other related services (collectively, the “Services”).
+This Privacy Policy for We’re SL explains how we collect, use, and protect your information when you use our mobile app WeLearn or other related services (collectively, the “Services”).
 
 If you have questions, contact us at 📧 projectsweresl@gmail.com
 .
@@ -17,7 +17,7 @@ Third-party data: We do not collect information from third parties.
 
 Use of data: To create and manage accounts, deliver services, and improve user experience.
 
-Sharing: Only when required for business transfers or legal reasons.
+Sharing: We dont share with anyone else.
 
 Security: We use technical and organizational safeguards, but no system is 100% secure.
 
@@ -25,7 +25,7 @@ Your rights: You may access, change, or delete your data by contacting us.
 
 1. Information We Collect
 
-We collect personal information you voluntarily provide (e.g., name, email, phone, age). If you sign in via social media (Facebook, X, etc.), we may receive basic profile data from that provider.
+We collect personal information you voluntarily provide (e.g., name, email, phone, age). If you sign in via google, we receive profile picture and name from that provider.
 
 2. How We Use Your Information
 
