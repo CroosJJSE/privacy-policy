@@ -40,8 +40,7 @@ Communicate with you
 Ensure security and legal compliance
 
 3. Sharing Your Information
-
-We only share information if required by law or in connection with a business transfer (e.g., merger or acquisition).
+We don't share your information with anyone.
 
 4. Social Logins
 
@@ -62,7 +61,7 @@ If you withdraw consent, we will stop processing your data, except where require
 
 8. Do-Not-Track
 
-Our Services do not currently respond to browser “Do Not Track” signals.
+we don't need any permission to run our app in your phone.
 
 9. Policy Updates
 
